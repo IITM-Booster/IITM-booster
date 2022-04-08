@@ -1,0 +1,1 @@
+add all the assets in this folder. You may add additional sub folders for example, home folder to place graphics related to homepage in it.
