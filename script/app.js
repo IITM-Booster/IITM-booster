@@ -24,7 +24,6 @@
         constructor(){
 
         }
-
         init() {
             console.log(this);
         }
