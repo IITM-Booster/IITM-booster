@@ -21,6 +21,9 @@
     // class
     class iitm_app {
 
+        constructor(){
+
+        }
         init() {
             console.log(this);
         }
